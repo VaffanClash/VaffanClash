@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VaffanClash.
 - 🌱 I’m currently learning JavaScript as my first programming Language.
 - 👀 Right now I'm working on some little projects to make my first experiences and finally find a job.
-- ⌨️ Ongoing Projects: Apex Legends Stats Tracker, various Discord Bots and my first desktop app: System Monitor.
+- ⌨️ Ongoing Projects: Apex Legends Stats Tracker, various Discord Bots and my first desktop app: [System Monitor](https://github.com/VaffanClash/Resource-monitor).
 - 📫 You can reach me on Discord: VaffanClash#2513.
 
 <!---
